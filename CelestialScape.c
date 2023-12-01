@@ -185,7 +185,7 @@ int main()
                         attron(COLOR_PAIR(9));
                     }
 
-                    // Check if the point is in the right half of the circle
+                    // Verifique se o ponto está na metade direita do círculo
                     if (x <= CENTER_X - 1)
                     {
                         // Set the color to white
